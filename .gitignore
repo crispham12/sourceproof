@@ -1,0 +1,23 @@
+# Python / Backend
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.env
+.venv/
+venv/
+env/
+*.log
+
+# Frontend / Node
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# OS
+.DS_Store
+Thumbs.db
